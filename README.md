@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Sanskar Mishra, a passionate **Java Full Stack Develop
 ## 🚀 About Me
 
 - 🌟 **MCA Graduate** (2022 – 2024) from Rungta College of Engineering and Technology, Bhilai.
-- 📍 Based in Mumbai, India.
+- 📍 Based in karnatka, India.
 - 💡 Passionate about learning new technologies and building robust applications.
 - 🎯 Always exploring **Spring Boot**, **React.js**, **RESTful APIs**, and **Tailwind CSS**.
 
